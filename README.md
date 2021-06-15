@@ -1,0 +1,2 @@
+# gfy
+GoFYourself Coin Repo
